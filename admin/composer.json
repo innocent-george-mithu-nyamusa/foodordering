@@ -1,0 +1,14 @@
+{
+    "name": "foodorderring/amin",
+    "type": "project",
+    "authors": [
+        {
+            "name": "innocent-george-mithu-nyamusa",
+            "email": "innocentnyamusa@gmail.com"
+        }
+    ],
+    "require": {
+        "paynow/php-sdk": "^1.0",
+      "ext-http": "*"
+    }
+}

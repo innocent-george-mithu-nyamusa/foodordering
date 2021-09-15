@@ -1,0 +1,6 @@
+{
+    "require": {
+        "paynow/php-sdk": "^1.0",
+        "ramsey/uuid": "^4.1"
+    }
+}
